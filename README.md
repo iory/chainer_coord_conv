@@ -5,6 +5,7 @@ This is Chainer implementation of [CoordConv](https://arxiv.org/abs/1807.03247)
 # Requirments
 
 - Chainer 4
+- sklearn
 
 # Example
 
