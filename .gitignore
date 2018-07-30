@@ -1,0 +1,8 @@
+*~
+*.egg/
+*.pyc
+build
+\#*\#
+.\#*
+coordconv.egg-info/
+dist/
